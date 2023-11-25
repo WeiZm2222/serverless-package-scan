@@ -5,7 +5,7 @@ export const handler = async (event, context) => {
         statusCode: 200,
         body: JSON.stringify(
             {
-                message: "Hello, World!",
+                message: "Hello, from ZMW World!",
             },
           null,
           2
